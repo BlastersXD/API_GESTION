@@ -1,0 +1,11 @@
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\entity_library\bin\Debug\net8.0\entity_library.deps.json
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\entity_library\bin\Debug\net8.0\entity_library.dll
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\entity_library\bin\Debug\net8.0\entity_library.pdb
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\entity_library\obj\Debug\net8.0\entity_library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\entity_library\obj\Debug\net8.0\entity_library.AssemblyInfoInputs.cache
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\entity_library\obj\Debug\net8.0\entity_library.AssemblyInfo.cs
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\entity_library\obj\Debug\net8.0\entity_library.csproj.CoreCompileInputs.cache
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\entity_library\obj\Debug\net8.0\entity_library.dll
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\entity_library\obj\Debug\net8.0\refint\entity_library.dll
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\entity_library\obj\Debug\net8.0\entity_library.pdb
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\entity_library\obj\Debug\net8.0\ref\entity_library.dll

@@ -1,0 +1,15 @@
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\dao_library\bin\Debug\net8.0\dao_library.deps.json
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\dao_library\bin\Debug\net8.0\dao_library.dll
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\dao_library\bin\Debug\net8.0\dao_library.pdb
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\dao_library\bin\Debug\net8.0\entity_library.dll
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\dao_library\bin\Debug\net8.0\entity_library.pdb
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\dao_library\obj\Debug\net8.0\dao_library.csproj.AssemblyReference.cache
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\dao_library\obj\Debug\net8.0\dao_library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\dao_library\obj\Debug\net8.0\dao_library.AssemblyInfoInputs.cache
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\dao_library\obj\Debug\net8.0\dao_library.AssemblyInfo.cs
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\dao_library\obj\Debug\net8.0\dao_library.csproj.CoreCompileInputs.cache
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\dao_library\obj\Debug\net8.0\dao_libr.F9BEABA2.Up2Date
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\dao_library\obj\Debug\net8.0\dao_library.dll
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\dao_library\obj\Debug\net8.0\refint\dao_library.dll
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\dao_library\obj\Debug\net8.0\dao_library.pdb
+D:\Escritorio\API GESTION LAURA BLASER\LAURA GISELLE\dao_library\obj\Debug\net8.0\ref\dao_library.dll
