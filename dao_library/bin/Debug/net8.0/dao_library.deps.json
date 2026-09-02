@@ -16,7 +16,10 @@
       },
       "entity_library/1.0.0": {
         "runtime": {
-          "entity_library.dll": {}
+          "entity_library.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

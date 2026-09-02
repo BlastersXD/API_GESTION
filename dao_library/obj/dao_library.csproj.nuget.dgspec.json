@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Escritorio\\API GESTION LAURA BLASER\\LAURA GISELLE\\dao_library\\dao_library.csproj": {}
+    "C:\\Users\\laura\\OneDrive\\Escritorio\\API GESTION LAURA BLASER\\LAURA\\dao_library\\dao_library.csproj": {}
   },
   "projects": {
-    "D:\\Escritorio\\API GESTION LAURA BLASER\\LAURA GISELLE\\dao_library\\dao_library.csproj": {
+    "C:\\Users\\laura\\OneDrive\\Escritorio\\API GESTION LAURA BLASER\\LAURA\\dao_library\\dao_library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\API GESTION LAURA BLASER\\LAURA GISELLE\\dao_library\\dao_library.csproj",
+        "projectUniqueName": "C:\\Users\\laura\\OneDrive\\Escritorio\\API GESTION LAURA BLASER\\LAURA\\dao_library\\dao_library.csproj",
         "projectName": "dao_library",
-        "projectPath": "D:\\Escritorio\\API GESTION LAURA BLASER\\LAURA GISELLE\\dao_library\\dao_library.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\API GESTION LAURA BLASER\\LAURA GISELLE\\dao_library\\obj\\",
+        "projectPath": "C:\\Users\\laura\\OneDrive\\Escritorio\\API GESTION LAURA BLASER\\LAURA\\dao_library\\dao_library.csproj",
+        "packagesPath": "C:\\Users\\laura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laura\\OneDrive\\Escritorio\\API GESTION LAURA BLASER\\LAURA\\dao_library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\laura\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Escritorio\\API GESTION LAURA BLASER\\LAURA GISELLE\\entity_library\\entity_library.csproj": {
-                "projectPath": "D:\\Escritorio\\API GESTION LAURA BLASER\\LAURA GISELLE\\entity_library\\entity_library.csproj"
+              "C:\\Users\\laura\\OneDrive\\Escritorio\\API GESTION LAURA BLASER\\LAURA\\entity_library\\entity_library.csproj": {
+                "projectPath": "C:\\Users\\laura\\OneDrive\\Escritorio\\API GESTION LAURA BLASER\\LAURA\\entity_library\\entity_library.csproj"
               }
             }
           }
@@ -43,11 +41,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -64,33 +63,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.317/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Escritorio\\API GESTION LAURA BLASER\\LAURA GISELLE\\entity_library\\entity_library.csproj": {
+    "C:\\Users\\laura\\OneDrive\\Escritorio\\API GESTION LAURA BLASER\\LAURA\\entity_library\\entity_library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\API GESTION LAURA BLASER\\LAURA GISELLE\\entity_library\\entity_library.csproj",
+        "projectUniqueName": "C:\\Users\\laura\\OneDrive\\Escritorio\\API GESTION LAURA BLASER\\LAURA\\entity_library\\entity_library.csproj",
         "projectName": "entity_library",
-        "projectPath": "D:\\Escritorio\\API GESTION LAURA BLASER\\LAURA GISELLE\\entity_library\\entity_library.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\API GESTION LAURA BLASER\\LAURA GISELLE\\entity_library\\obj\\",
+        "projectPath": "C:\\Users\\laura\\OneDrive\\Escritorio\\API GESTION LAURA BLASER\\LAURA\\entity_library\\entity_library.csproj",
+        "packagesPath": "C:\\Users\\laura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laura\\OneDrive\\Escritorio\\API GESTION LAURA BLASER\\LAURA\\entity_library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\laura\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -103,11 +100,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -124,7 +122,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.317/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
